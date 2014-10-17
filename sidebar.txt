@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[muo:home|Door43 (muo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-muo|d43-muo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-muo/archive/master.zip|d43-muo.zip]]
+
+**Recent Changes**
+{{changes>ns = muo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/muo|Ethnologue data]]
+
